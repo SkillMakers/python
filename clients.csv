@@ -1,0 +1,5 @@
+id;nom;email;pays;age;actif
+1;Alice Martin;alice@mail.com;FR;32;oui
+2;Bob Dupont;bob@mail.com;FR;45;non
+3;Carlos Silva;carlos@mail.com;PT;29;oui
+4;Sara Rossi;sara@mail.com;IT;;oui
